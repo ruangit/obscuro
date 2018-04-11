@@ -1,1 +1,3 @@
 # obscuro
+
+jogo de survival.
